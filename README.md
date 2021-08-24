@@ -1,6 +1,6 @@
 # Hello, I'm Oskar 👋
 
-I am a Data Scientist and software developer from Sweden. 🇸🇪
+I am a Data Scientist and Software Developer from Sweden. 🇸🇪
 
 I am interested in how machine learning and data insights can improve quality of life for people and how it can be integrated with trust and transparency. 💡
 

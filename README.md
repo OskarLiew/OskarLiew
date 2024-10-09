@@ -10,6 +10,7 @@ I am currently working on improving access to generative AI in the public sector
 
 You can find me on:
 
+- [oskarliew.com](https://oskarliew.com)
 - [LinkedIn](https://www.linkedin.com/in/oskarliew/)
 - [Twitter @LiewOskar](https://twitter.com/LiewOskar)
 - [GitHub @OskarLiew (you are here)](https://github.com/OskarLiew)

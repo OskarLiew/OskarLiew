@@ -6,7 +6,7 @@ I am interested in how machine learning and data insights can improve quality of
 
 I have experience with data analysis, machine learning, backend development and microservices in python. 🐍
 
-I am currently working with natural language processing and Bayesian networks in healthcare ⚕️
+I am currently working on improving access to generative AI in the public sector 🏢
 
 You can find me on:
 
